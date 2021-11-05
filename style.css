@@ -14,14 +14,17 @@ h2{
     font-family: 'Times New Roman', Times, serif;
     text-align: left;
     background-color: lightcoral;
-    border: rgb(0, 255, 221);
+padding: 25px;
+border: 15px solid pink;
     
 }
 .spurs{
     background-color: blueviolet;
-    border-color: cadetblue;
+    
     width: auto;
     float:right;
+    padding: 25px;
+    border-color: 20px salmon;
 }
 h3{
     color: rgb(0, 255, 242);
